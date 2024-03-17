@@ -368,9 +368,7 @@ a{
     .square-2{
         display: none;
     }
-    .right-contact textarea{
-        width: 250px;
-    }
+
     .cards h1{
         font-size: 1.5rem;
     }
@@ -401,6 +399,8 @@ a{
     .showNav{
         max-height: 400px;
     }
-
+    .left-contact , .right-contact , .cards{
+        flex-basis: 100%;
+    }
 
 }
