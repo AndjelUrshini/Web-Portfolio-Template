@@ -399,7 +399,7 @@ a{
     .showNav{
         max-height: 400px;
     }
-    .left-contact , .right-contact , .cards{
+    .left-contact , .right-contact , .cards, .left-main, .right-main,.right-about{
         flex-basis: 100%;
     }
 
